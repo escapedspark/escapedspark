@@ -1,0 +1,4 @@
+- 👋 Hi, I’m 逸燧
+- 🌱 I’m currently learning how to write plugins for Yunzai
+- 📫 Contact with me on https://escaped.icu
+- 🥵This account is for sharing images.
